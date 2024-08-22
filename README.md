@@ -1,9 +1,9 @@
-This project is an interactive quiz program designed to read questions and answers from a sequential text file, present them to the user, and provide feedback on the user's answers. The program features a random question selection mechanism, a time limit option, and result logging. It supports both Windows and Linux environments.
+# CS 533 Class Project
+This is an interactive quiz program designed to read questions and answers from a sequential text file, present them to the user, and provide feedback on the user's answers. The program features a random question selection mechanism, a time limit option, and result logging. It supports both Windows and Linux environments.
 
 </br >
-</br >
 
-Features
+## Features
 - Question Reading: Reads a set of questions and answers from a sequential text file
 - Random Question Selection: Randomly selects questions for the quiz to ensure varied sessions
 - Answer Feedback: Provides immediate feedback on whether the user's answer is correct or incorrect
@@ -13,17 +13,16 @@ Features
 </br >
 </br >
 
-Environment Compatibility
+## Environment Compatibility
 - Windows: Interactive menu-based interface.
 - Linux: Command-line interface with hidden log file.
 
 </br >
 </br >
 
-Instructions
-</br >
-Linux
-</br >
+## Instructions
+
+### Linux
 To run the quiz, type in:
 python3 "linux.py" "quiz.txt" --total-questions ... --time-limit ...
 
@@ -33,8 +32,9 @@ To view the log files, type in:
 python3 "linux.py" "quiz.txt" --display-logs
 
 </br >
-Windows
-</br >  
+
+### Windows
+  
 When you run the program, you will see a menu with four different options. 
 
 Type in 1 to set up the options for the quiz. You need to type in how many questions there will be on the quiz, the time limit, and then input the quiz file. No quotations are needed for the file.
