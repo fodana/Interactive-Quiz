@@ -25,12 +25,12 @@ Instructions
 Linux
 </br >
 To run the quiz, type in:
-python3 "asg3linux.py" "quiz.txt" --total-questions ... --time-limit ...
+python3 "linux.py" "quiz.txt" --total-questions ... --time-limit ...
 
 if you want to change the quiz file, upload it to the directory and replace "quiz.txt" with the new file.
 
 To view the log files, type in:
-python3 "asg3linux.py" "quiz.txt" --display-logs
+python3 "linux.py" "quiz.txt" --display-logs
 
 </br >
 Windows
