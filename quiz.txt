@@ -1,0 +1,191 @@
+* QUIZ QUESTIONS
+* Dana Foual
+* CS 533
+
+
+* ---------------------------------------------------
+* 1
+@Q
+Which American state does the Kodiak bear call its natural habitat?
+@A
+3
+Mississippi
+Illinois
+Alaska
+California
+@E
+
+
+* 2
+@Q
+What are the names of a male and female Kodiak bear?
+@A
+2
+A male is a bull; a female is a cow
+A male is a boar; a female is a sow
+A male is a buck; a female is a doe
+A male is a stallion; a female is a mare
+@E
+
+
+* 3
+@Q
+The size of a Kodiak bear is similar to the size of the polar bear, also known as Ursus maritimus, making them the largest members in terms of size of the Ursidae family. Which of the following is NOT a difference between the Kodiak bear and the polar bear?
+@A
+1
+The Kodiak bear lives in the northern hemisphere of the planet while the polar bear lives in the southern hemisphere
+The polar bear has small claws while the Kodiak bear has large curved claves
+The Kodiak bear can't swim long distances while the polar bear can
+The polar bear has a long skull the Kodiak bear has a heavy and concaved skull
+@E
+
+
+* 4
+@Q
+During what part of the day are Kodiak bears most active?
+@A
+1
+During the day
+During the twilight
+During the night
+Randomly during the day and night
+@E
+
+
+* ---------------------------------------------------
+* 5
+@Q
+The polar bear is hungry. What is his preferred food?
+@A
+4
+Badger
+Whale
+Penguin
+Seal
+@E
+
+
+* 6
+@Q
+How many toes does a polar bear have on each foot?
+@A
+1
+5
+8
+6
+3
+@E
+
+
+* 7
+@Q
+How much does an average male polar bear weigh?
+@A
+4
+1000 kg (2200 pounds)
+730 kg (1605 pounds)
+300 kg (660 pounds)
+550 kg (1210 pounds)
+@E
+
+
+* 8
+@Q
+How long will a male polar bear hibernate for?
+@A
+4
+1 month
+5 months
+3 months
+They don't
+@E
+
+
+* 9
+@Q
+Polar bears are protected by an International agreement between five nations. When was 'The International Agreement on Conservation of Polar Bears and Their Habitat' reached?
+@A
+4
+1942
+1966
+1988
+1973
+@E
+
+
+* ---------------------------------------------------
+* 10
+@Q
+The sun bear is the smallest of all extant bears.
+@A
+1
+True
+False
+@E
+
+
+* 11
+@Q
+The sun bear also goes by the name 'beruang madu' which means what in Malay and Indonesian?
+@A
+2
+Crescent bear
+Honey bear
+Hummingbird bear
+Sunrise bear
+@E
+
+
+* 12
+@Q
+Compared to other bear species, what body part of the sun bear is longer?
+@A
+4
+Claws
+Ears
+Nose
+Tongue
+@E
+
+
+* 13
+@Q
+A threat to the sun bear is the medicinal trade in China. Sun bears are caught and farmed for what?
+@A
+2
+Fur
+Bile
+Thigh bones
+Tail
+@E
+
+
+* 14
+@Q
+The sun bear is the most arboreal (tree-dwelling) of all extant bear species.
+@A
+1
+True
+False
+@E
+
+
+* 15
+@Q
+Which of these is a similarity between the sun bear and the honey badger?
+@A
+2
+Both have an anal gland that sprays a dangerous substance, whilst in the grip of an attacker
+Both have loose skin, meaning they can turn and fight back, whilst in the grip of an attacker
+Both are located mainly in the wilds of Africa
+Both eat venomous snakes as about a quarter of their diet
+@E
+
+* ---------------------------------------------------
+* Questions taken from these links ->
+* https://www.funtrivia.com/trivia-quiz/Animals/A-Kodiak-Moment-366117.html (1-4)
+* https://www.funtrivia.com/trivia-quiz/Animals/Polar-Bears-3838.html (5-9)
+* https://www.funtrivia.com/trivia-quiz/Animals/World-of-the-Sun-Bear-405808.html (10-15)
+
+* END OF FILE
+
